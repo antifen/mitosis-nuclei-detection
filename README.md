@@ -12,7 +12,7 @@ hybrid anchor branch'
   <img src="img/img_2.png" width="90%">
 </div>
 <div align="center">
-  <img src="img/img_3.png" width="80%">
+  <img src="img/img_3.png" width="90%">
 </div>
 
 Mitosis detection is one of the important problems in computational pathology, 
